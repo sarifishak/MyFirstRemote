@@ -7,3 +7,5 @@ Bug123 change 2
 Bug123 change 3
 
 Bug123 change 4
+
+Change 2 remotely in File1
