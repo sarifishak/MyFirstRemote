@@ -8,8 +8,17 @@ Bug123 change 3
 
 Bug123 change 4
 
+<<<<<<< HEAD
 Change 1 locally in File1
 
 Change 2 locally in File1
 
 Change 3  locally in File1
+=======
+Change 2 remotely in File1
+
+Change 3 remotely in File1
+
+Change 4 remotely in File1
+
+>>>>>>> origin/main
