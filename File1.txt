@@ -9,3 +9,5 @@ Bug123 change 3
 Bug123 change 4
 
 Change 2 remotely in File1
+
+Change 3 remotely in File1
